@@ -9,5 +9,6 @@ int main()
     cout << "Enter number 'b': "; cin >> b;
 
     cout << "Sum = " << a + b << endl;
+    cout << "Razn = " << a - b << endl;
     return 0;
 }
