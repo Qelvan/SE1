@@ -1,4 +1,5 @@
-#опнцпюллю ъбкъеряъ свеамни
+//This example program
+//Author: Ivan Antonov KE-217, 2024
 #include <iostream>
 
 
@@ -12,5 +13,6 @@ int main()
 
     cout << "Sum = " << a + b << endl;
     cout << "Razn = " << a - b << endl;
+    cout << "Division= " << a / b << endl;
     return 0;
 }
