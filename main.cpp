@@ -1,4 +1,5 @@
-#опнцпюллю ъбкъеряъ свеамни
+//This example program
+//author: Ivan Antonov, KE-217, 2024.
 #include <iostream>
 
 
