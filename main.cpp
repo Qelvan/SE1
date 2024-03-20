@@ -13,5 +13,6 @@ int main()
 
     cout << "Sum = " << a + b << endl;
     cout << "Razn = " << a - b << endl;
+    cout << "Multy = " << a * b << endl;
     return 0;
 }
