@@ -1,4 +1,6 @@
+#опнцпюллю ъбкъеряъ свеамни
 #include <iostream>
+
 
 using namespace std;
 
